@@ -32,6 +32,12 @@ Estoy en proceso de especializarme en **desarrollo Front-end y Back-end**, apren
 
 ---
 
+## 🚧 Proyectos
+
+¡Estaré subiendo mis proyectos poco a poco! Mantente atento para descubrir mis avances y experimentos en desarrollo web. 🚀
+
+---
+
 ## 📫 Contáctame
 
 [![Gmail Badge](https://img.shields.io/badge/-miguelangelmolinadiaz123@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:miguelangelmolinadiaz123@gmail.com)
@@ -39,4 +45,5 @@ Estoy en proceso de especializarme en **desarrollo Front-end y Back-end**, apren
 ---
 
 ###### Hecho con ❤️ por Miguel Molina
+
 
