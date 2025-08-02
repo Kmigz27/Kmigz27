@@ -28,7 +28,7 @@ Actualmente estudio el **tecnólogo en análisis y desarrollo de software** en e
 
 Estoy en proceso de especializarme en **desarrollo Front-end y Back-end**, aprendiendo actualmente **HTML, CSS y JavaScript**.
 
-📌 **Mi meta es trabajar de manera remota como desarrollador web, especialmente en Japón**, país que admiro profundamente por su cultura y tecnología.
+📌 **Mi meta es trabajar de manera remota como desarrollador web.
 
 ---
 
